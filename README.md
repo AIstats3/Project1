@@ -19,7 +19,7 @@ __Remember to clone the Metrics Sports data repository so you have access to the
 Evaluation of passes - how to assign value to different passes.
 
 ## Group Members And Contributions
-
+Nicholas LaMonica, Student ID 40119610
 ## Setup
 
 If using `pyenv` virtual env:
